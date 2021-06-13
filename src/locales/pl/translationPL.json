@@ -1,0 +1,23 @@
+{
+    "nameLonger" : "Twoje imię powinno być dłuższe",
+    "nameShorter" : "Twoje imię powinno być krótsze",
+    "surnameLonger" : "Twoje nazwisko powinno być dłuższe",
+    "surnameShorter" : "Twoje nazwisko powinno być krótsze",
+    "emailLonger" : "Twój email powinien być dłuższy",
+    "emailShorter" : "Twój email powinien być krótszy",
+    "opinionLonger" : "Twoja opinia powinna być dłuższa",
+    "opinionShorter" : "Twoja opinia powinna być krótsza",
+    "nameRequired" : "Imię jest polem wymaganym",
+    "surnameRequired" : "Nazwisko jest polem wymaganym",
+    "emailValid" : "Email musi mieć formę maila",
+    "emailRequire" : "Email jest polem wymaganym",
+    "opinionRequired" : "Opinia jest polem wymaganym",
+    "name" : "Imię",
+    "surname" : "Nazwisko",
+    "email" : "Email",
+    "your opinion" : "Twoja opinia",
+    "submit" : "Zatwierdź",
+    "clear" : "Wyczyść",
+    "project" : "Formatka kontaktowa",
+    "madeBy" : "Wykonana przez "
+}

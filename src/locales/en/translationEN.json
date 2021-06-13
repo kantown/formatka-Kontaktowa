@@ -1,0 +1,23 @@
+{
+    "nameLonger" : "Your name should be longer",
+    "nameShorter" : "Your name should be shorter",
+    "surnameLonger" : "Your surname should be longer",
+    "surnameShorter" : "Your surname should be shorter",
+    "emailLonger" : "Your email should be longer",
+    "emailShorter" : "Your email should be shorter",
+    "opinionLonger" : "Your opinion should be longer",
+    "opinionShorter" : "Your opinion should be shorter",
+    "nameRequired" : "Name is a required field",
+    "surnameRequired" : "Surname is a required field",
+    "emailValid" : "Email must be a valid email",
+    "emailRequire" : "Email is a required field",
+    "opinionRequired" : "Opinion is a required field",
+    "name" : "Name",
+    "surname" : "Surname",
+    "email" : "Email",
+    "your opinion" : "Your opinion",
+    "submit" : "Submit",
+    "clear" : "Clear",
+    "project" : "Contact form",
+    "madeBy" : "Made by "
+}
