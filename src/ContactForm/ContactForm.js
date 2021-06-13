@@ -66,7 +66,7 @@ function ContactForm({ t }) {
           opinion: "",
         }}
         onSubmit={(values) => {
-          console.group("Consoled values:");
+          console.group("Values:");
           console.log(values.name);
           console.log(values.surname);
           console.log(values.email);
@@ -142,7 +142,6 @@ function ContactForm({ t }) {
             <TextareaAutosize
               id="opinion"
               name="opinion"
-              /* aria-label="empty textarea" */
               placeholder={t("your opinion")}
               rowsMax={9}
               style={{
